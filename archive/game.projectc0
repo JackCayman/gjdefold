@@ -1,5 +1,5 @@
 [project]
-title = My project
+title = Dune Knight
 version = 0.1
 
 [bootstrap]
@@ -17,4 +17,16 @@ scale = 0.02
 
 [script]
 shared_state = 1
+
+[sprite]
+max_count = 128
+
+[factory]
+max_count = 128
+
+[collectionfactory]
+max_count = 128
+
+[spine]
+max_count = 128
 
