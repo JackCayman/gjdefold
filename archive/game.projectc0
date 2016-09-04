@@ -1,5 +1,5 @@
 [project]
-title = Dune Knight
+title = duneknight
 version = 0.1
 
 [bootstrap]
